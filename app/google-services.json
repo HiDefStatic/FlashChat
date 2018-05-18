@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "298424248844",
+    "firebase_url": "https://flashchat-11.firebaseio.com",
+    "project_id": "flashchat-11",
+    "storage_bucket": "flashchat-11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298424248844:android:d5b58e3b630f7364",
+        "android_client_info": {
+          "package_name": "com.whatsthedeel.flashchatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298424248844-8ck4t768sqto66k52s13hb31h2799dhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcSkNAl6QD1q9KQBWqdxvWHC1LxkyFZNA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
